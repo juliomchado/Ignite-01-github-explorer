@@ -17,7 +17,6 @@ export function RepositoryList() {
         <RepositoryItem repository={repository} />
         <RepositoryItem repository={repository} />
       </ul>
-
     </section>
   );
 }
